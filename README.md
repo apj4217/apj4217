@@ -100,7 +100,7 @@
 
 ## 📌 Featured Projects
 
-### 🏢 1. LoginRich — Employee Payroll & Workforce Management
+### 🏢 1.AuraPlus — Employee Payroll & Workforce Management
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, JWT, Tailwind CSS
 
